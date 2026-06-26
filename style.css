@@ -2,7 +2,7 @@
     --primary-color: #4361ee;
     --primary-dark: #3a56d4;
     --secondary-color: #3f37c9;
-    --accent-color: #4895ef;
+    --accent-color: #5206df;
     --danger-color: #f72585;
     --success-color: #4cc9f0;
     --warning-color: #f8961e;
@@ -43,7 +43,7 @@ header {
 .logo {
     font-size: 2.5rem;
     font-weight: 700;
-    background: linear-gradient(90deg, #4cc9f0, #f72585);
+    background: linear-gradient(90deg, #2e04e9, #0bf103);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
